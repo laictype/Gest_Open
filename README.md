@@ -12,3 +12,10 @@ Eksces consists of 3 widths (narrow, regular and wide. You can access individual
 The typeface consists of *Latin* script and 1430 glyphs in total.
 
 To test the typeface and see specimen [have a look here](https://laic.pl/gest).
+
+### Download
+Fonts files available for us are located in the "Fonts" folder.
+Production files are available in the "Source" folder.
+
+#### Acknowledgment
+The structure of files and the idea itself is inspired by [Velvetyne Type Foundry](https://www.velvetyne.fr/)
