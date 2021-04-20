@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.ss01" format="2">
+	<advance width="584"/>
+	<outline>
+		<contour>
+			<point x="354" y="591" type="line"/>
+			<point x="251" y="718" type="line"/>
+			<point x="251" y="0" type="line"/>
+			<point x="354" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="71" y="718" type="line"/>
+			<point x="71" y="623" type="line"/>
+			<point x="125" y="623" type="line"/>
+			<point x="219" y="623" type="line" smooth="yes"/>
+			<point x="239" y="623"/>
+			<point x="251" y="611"/>
+			<point x="251" y="591" type="curve"/>
+			<point x="251" y="0" type="line"/>
+			<point x="354" y="0" type="line"/>
+			<point x="354" y="718" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="95" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="533" y="0" type="line"/>
+			<point x="533" y="95" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-12-17 23:23:01 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

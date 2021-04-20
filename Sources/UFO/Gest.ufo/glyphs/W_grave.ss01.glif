@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave.ss01" format="2">
+	<advance width="631"/>
+	<anchor x="316" y="0" name="bottom"/>
+	<anchor x="316" y="718" name="top"/>
+	<outline>
+		<contour>
+			<point x="271" y="843" type="line" smooth="yes"/>
+			<point x="271" y="798"/>
+			<point x="304" y="766"/>
+			<point x="349" y="766" type="curve" smooth="yes"/>
+			<point x="361" y="766" type="line"/>
+			<point x="361" y="923" type="line"/>
+			<point x="271" y="923" type="line"/>
+		</contour>
+		<contour>
+			<point x="580" y="718" type="line"/>
+			<point x="430" y="718" type="line"/>
+			<point x="430" y="623" type="line"/>
+			<point x="443" y="623" type="line" smooth="yes"/>
+			<point x="463" y="623"/>
+			<point x="475" y="611"/>
+			<point x="475" y="591" type="curve" smooth="yes"/>
+			<point x="475" y="113" type="line"/>
+			<point x="456" y="113" type="line"/>
+			<point x="370" y="224" type="line"/>
+			<point x="365" y="230"/>
+			<point x="363" y="237"/>
+			<point x="363" y="245" type="curve" smooth="yes"/>
+			<point x="363" y="623" type="line"/>
+			<point x="268" y="623" type="line"/>
+			<point x="268" y="245" type="line" smooth="yes"/>
+			<point x="268" y="237"/>
+			<point x="266" y="230"/>
+			<point x="261" y="224" type="curve"/>
+			<point x="175" y="113" type="line"/>
+			<point x="156" y="113" type="line"/>
+			<point x="156" y="591" type="line" smooth="yes"/>
+			<point x="156" y="611"/>
+			<point x="168" y="623"/>
+			<point x="188" y="623" type="curve" smooth="yes"/>
+			<point x="201" y="623" type="line"/>
+			<point x="201" y="718" type="line"/>
+			<point x="51" y="718" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="213" y="0" type="line"/>
+			<point x="316" y="132" type="line"/>
+			<point x="418" y="0" type="line"/>
+			<point x="580" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:51:41 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

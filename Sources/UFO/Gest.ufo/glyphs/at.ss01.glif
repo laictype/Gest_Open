@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at.ss01" format="2">
+	<advance width="777"/>
+	<outline>
+		<contour>
+			<point x="727" y="0" type="line"/>
+			<point x="727" y="95" type="line"/>
+			<point x="185" y="95" type="line"/>
+			<point x="165" y="95"/>
+			<point x="153" y="107"/>
+			<point x="153" y="127" type="curve" smooth="yes"/>
+			<point x="153" y="591" type="line" smooth="yes"/>
+			<point x="153" y="611"/>
+			<point x="166" y="623"/>
+			<point x="186" y="623" type="curve"/>
+			<point x="50" y="718" type="line"/>
+			<point x="50" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="50" y="718" type="line"/>
+			<point x="186" y="623" type="line"/>
+			<point x="595" y="623" type="line" smooth="yes"/>
+			<point x="615" y="623"/>
+			<point x="627" y="611"/>
+			<point x="627" y="591" type="curve" smooth="yes"/>
+			<point x="627" y="515" type="line"/>
+			<point x="270" y="515" type="line"/>
+			<point x="270" y="192" type="line"/>
+			<point x="533" y="192" type="line"/>
+			<point x="627" y="251" type="line"/>
+			<point x="627" y="192" type="line"/>
+			<point x="727" y="192" type="line"/>
+			<point x="727" y="718" type="line"/>
+		</contour>
+		<contour>
+			<point x="500" y="284" type="line"/>
+			<point x="407" y="284" type="line" smooth="yes"/>
+			<point x="377" y="284"/>
+			<point x="370" y="301"/>
+			<point x="370" y="331" type="curve" smooth="yes"/>
+			<point x="370" y="376" type="line" smooth="yes"/>
+			<point x="370" y="406"/>
+			<point x="377" y="425"/>
+			<point x="407" y="425" type="curve" smooth="yes"/>
+			<point x="627" y="425" type="line"/>
+			<point x="627" y="366" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-12-17 23:15:06 +0000</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="linebelow" format="2">
+	<advance width="268"/>
+	<anchor x="134" y="0" name="_bottom"/>
+	<outline>
+		<component base="macron" yOffset="-917"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-01-20 20:05:06 +0000</string>
+		</dict>
+	</lib>
+</glyph>

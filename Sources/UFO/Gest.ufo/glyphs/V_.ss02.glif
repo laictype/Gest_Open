@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.ss02" format="2">
+	<advance width="464"/>
+	<anchor x="232" y="0" name="bottom"/>
+	<anchor x="232" y="718" name="top"/>
+	<outline>
+		<contour>
+			<point x="310" y="718" type="line"/>
+			<point x="310" y="264" type="line"/>
+			<point x="232" y="138" type="line"/>
+			<point x="154" y="264" type="line"/>
+			<point x="154" y="718" type="line"/>
+			<point x="51" y="718" type="line"/>
+			<point x="51" y="240" type="line"/>
+			<point x="200" y="0" type="line"/>
+			<point x="264" y="0" type="line"/>
+			<point x="413" y="240" type="line"/>
+			<point x="413" y="718" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:51:48 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A.ss01</key>
+	<string>A_.ss01.glif</string>
+	<key>Schwa.ss01</key>
+	<string>S_chwa.ss01.glif</string>
+	<key>Schwa.ss02</key>
+	<string>S_chwa.ss02.glif</string>
+	<key>a</key>
+	<string>a.glif</string>
+	<key>a.ss01</key>
+	<string>a.ss01.glif</string>
+	<key>a.ss02</key>
+	<string>a.ss02.glif</string>
+	<key>asciitilde</key>
+	<string>asciitilde.glif</string>
+	<key>e.ss01</key>
+	<string>e.ss01.glif</string>
+	<key>eth.ss01</key>
+	<string>eth.ss01.glif</string>
+	<key>eth.ss02</key>
+	<string>eth.ss02.glif</string>
+	<key>greaterequal</key>
+	<string>greaterequal.glif</string>
+	<key>schwa.ss01</key>
+	<string>schwa.ss01.glif</string>
+</dict>
+</plist>

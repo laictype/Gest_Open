@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.ss02" format="2">
+	<advance width="464"/>
+	<outline>
+		<component base="o.ss02"/>
+	</outline>
+</glyph>

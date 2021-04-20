@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>718</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>Gest</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>27</integer>
+			<key>y</key>
+			<integer>359</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/04/20 09:22:36</string>
+	<key>openTypeNameDesigner</key>
+	<string>Maciej Połczyński</string>
+	<key>openTypeOS2VendorID</key>
+	<string>laic</string>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Gest-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<real>95.0</real>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<real>103.0</real>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>487</integer>
+</dict>
+</plist>

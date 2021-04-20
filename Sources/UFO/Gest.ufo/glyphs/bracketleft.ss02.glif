@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft.ss02" format="2">
+	<advance width="261"/>
+	<anchor x="262" y="0" name="bottom"/>
+	<anchor x="262" y="359" name="center"/>
+	<anchor x="262" y="718" name="top"/>
+	<anchor x="505" y="718" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="154" y="718" type="line"/>
+			<point x="51" y="718" type="line"/>
+			<point x="51" y="200" type="line"/>
+			<point x="154" y="200" type="line"/>
+		</contour>
+		<contour>
+			<point x="153" y="568" type="line"/>
+			<point x="153" y="605"/>
+			<point x="173" y="625"/>
+			<point x="210" y="625" type="curve" smooth="yes"/>
+			<point x="211" y="625" type="line"/>
+			<point x="211" y="718" type="line"/>
+			<point x="50" y="718" type="line"/>
+		</contour>
+		<contour>
+			<point x="154" y="0" type="line"/>
+			<point x="154" y="518" type="line"/>
+			<point x="51" y="518" type="line"/>
+			<point x="51" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="153" y="150" type="curve"/>
+			<point x="50" y="0" type="line"/>
+			<point x="211" y="0" type="line"/>
+			<point x="211" y="93" type="line"/>
+			<point x="210" y="93" type="line" smooth="yes"/>
+			<point x="173" y="93"/>
+			<point x="153" y="113"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-12-17 23:42:02 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

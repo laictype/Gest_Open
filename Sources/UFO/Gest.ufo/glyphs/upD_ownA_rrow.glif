@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upDownArrow" format="2">
+	<advance width="505"/>
+	<unicode hex="2195"/>
+	<outline>
+		<contour>
+			<point x="300" y="524" type="line"/>
+			<point x="205" y="524" type="line"/>
+			<point x="205" y="56" type="line"/>
+			<point x="300" y="56" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="172" type="line"/>
+			<point x="252" y="16" type="line"/>
+			<point x="454" y="172" type="line"/>
+			<point x="398" y="243" type="line"/>
+			<point x="252" y="131" type="line"/>
+			<point x="107" y="243" type="line"/>
+		</contour>
+		<contour>
+			<point x="300" y="206" type="line"/>
+			<point x="300" y="664" type="line"/>
+			<point x="205" y="664" type="line"/>
+			<point x="205" y="206" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="548" type="line"/>
+			<point x="107" y="477" type="line"/>
+			<point x="252" y="589" type="line"/>
+			<point x="398" y="477" type="line"/>
+			<point x="454" y="548" type="line"/>
+			<point x="252" y="704" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:53:29 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

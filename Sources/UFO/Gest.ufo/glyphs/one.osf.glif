@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="2">
+	<advance width="524"/>
+	<outline>
+		<contour>
+			<point x="324" y="360" type="line"/>
+			<point x="221" y="487" type="line"/>
+			<point x="221" y="0" type="line"/>
+			<point x="324" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="71" y="487" type="line"/>
+			<point x="71" y="392" type="line"/>
+			<point x="125" y="392" type="line"/>
+			<point x="189" y="392" type="line" smooth="yes"/>
+			<point x="209" y="392"/>
+			<point x="221" y="380"/>
+			<point x="221" y="360" type="curve"/>
+			<point x="221" y="0" type="line"/>
+			<point x="324" y="0" type="line"/>
+			<point x="324" y="487" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="95" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="473" y="0" type="line"/>
+			<point x="473" y="95" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-12-17 23:18:22 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

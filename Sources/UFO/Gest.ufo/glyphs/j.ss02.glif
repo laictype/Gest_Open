@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.ss02" format="2">
+	<advance width="186"/>
+	<anchor x="252" y="0" name="bottom"/>
+	<outline>
+		<component base="jdotless.ss02"/>
+		<component base="dotaccent" xOffset="26" yOffset="-231"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-31 11:22:48 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

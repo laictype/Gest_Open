@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x.ss02" format="2">
+	<advance width="448"/>
+	<anchor x="177" y="0" name="bottom"/>
+	<anchor x="177" y="718" name="top"/>
+	<outline>
+		<contour>
+			<point x="177" y="288" type="line"/>
+			<point x="177" y="198" type="line"/>
+			<point x="216" y="198" type="line"/>
+			<point x="153" y="204" type="line"/>
+			<point x="297" y="111" type="line"/>
+			<point x="297" y="0" type="line"/>
+			<point x="397" y="0" type="line"/>
+			<point x="397" y="203" type="line"/>
+			<point x="449" y="132" type="line"/>
+			<point x="276" y="242" type="line"/>
+			<point x="447" y="364" type="line"/>
+			<point x="396" y="291" type="line"/>
+			<point x="396" y="487" type="line"/>
+			<point x="296" y="487" type="line"/>
+			<point x="296" y="378" type="line"/>
+			<point x="154" y="274" type="line"/>
+			<point x="219" y="288" type="line"/>
+		</contour>
+		<contour>
+			<point x="241" y="288" type="line"/>
+			<point x="169" y="288" type="line"/>
+			<point x="283" y="282" type="line"/>
+			<point x="152" y="378" type="line"/>
+			<point x="152" y="487" type="line"/>
+			<point x="52" y="487" type="line"/>
+			<point x="52" y="291" type="line"/>
+			<point x="1" y="364" type="line"/>
+			<point x="172" y="242" type="line"/>
+			<point x="-1" y="132" type="line"/>
+			<point x="51" y="203" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="151" y="0" type="line"/>
+			<point x="151" y="111" type="line"/>
+			<point x="282" y="195" type="line"/>
+			<point x="172" y="198" type="line"/>
+			<point x="241" y="198" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:52:22 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

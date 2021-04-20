@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otildemacron.ss01" format="2">
+	<advance width="564"/>
+	<outline>
+		<component base="o.ss01"/>
+		<component base="tilde" xOffset="168" yOffset="-231"/>
+		<component base="macron" xOffset="148" yOffset="-76"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:52:11 +0000</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

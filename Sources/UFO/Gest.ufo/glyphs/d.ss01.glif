@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d.ss01" format="2">
+	<advance width="559"/>
+	<anchor x="280" y="0" name="bottom"/>
+	<anchor x="280" y="244" name="center"/>
+	<anchor x="460" y="650" name="top"/>
+	<anchor x="539" y="487" name="topright"/>
+	<outline>
+		<component base="b.ss01" xScale="-1" xOffset="559"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:52:11 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="2">
+	<advance width="494"/>
+	<unicode hex="0075"/>
+	<anchor x="243" y="0" name="bottom"/>
+	<anchor x="336" y="0" name="ogonek"/>
+	<anchor x="243" y="487" name="top"/>
+	<anchor x="475" y="487" name="topright"/>
+	<outline>
+		<contour>
+			<point x="443" y="487" type="line"/>
+			<point x="343" y="487" type="line"/>
+			<point x="343" y="137" type="line" smooth="yes"/>
+			<point x="343" y="107"/>
+			<point x="336" y="90"/>
+			<point x="306" y="90" type="curve" smooth="yes"/>
+			<point x="188" y="90" type="line" smooth="yes"/>
+			<point x="158" y="90"/>
+			<point x="151" y="107"/>
+			<point x="151" y="137" type="curve" smooth="yes"/>
+			<point x="151" y="487" type="line"/>
+			<point x="51" y="487" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="443" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:51:59 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

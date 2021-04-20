@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C.ss02" format="2">
+	<advance width="415"/>
+	<anchor x="208" y="0" name="bottom"/>
+	<anchor x="208" y="718" name="top"/>
+	<outline>
+		<contour>
+			<point x="51" y="718" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="364" y="0" type="line"/>
+			<point x="364" y="255" type="line"/>
+			<point x="261" y="255" type="line"/>
+			<point x="261" y="127" type="line" smooth="yes"/>
+			<point x="261" y="107"/>
+			<point x="249" y="95"/>
+			<point x="229" y="95" type="curve" smooth="yes"/>
+			<point x="186" y="95" type="line" smooth="yes"/>
+			<point x="166" y="95"/>
+			<point x="154" y="107"/>
+			<point x="154" y="127" type="curve" smooth="yes"/>
+			<point x="154" y="591" type="line" smooth="yes"/>
+			<point x="154" y="611"/>
+			<point x="166" y="623"/>
+			<point x="186" y="623" type="curve" smooth="yes"/>
+			<point x="229" y="623" type="line" smooth="yes"/>
+			<point x="249" y="623"/>
+			<point x="261" y="611"/>
+			<point x="261" y="591" type="curve" smooth="yes"/>
+			<point x="261" y="463" type="line"/>
+			<point x="364" y="463" type="line"/>
+			<point x="364" y="718" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:51:48 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

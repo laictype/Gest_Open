@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oogonekmacron.ss02" format="2">
+	<advance width="464"/>
+	<outline>
+		<component base="o.ss02"/>
+		<component base="ogonekcomb" xOffset="208"/>
+		<component base="macroncomb" xOffset="99" yOffset="-231"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-04-18 19:26:11 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

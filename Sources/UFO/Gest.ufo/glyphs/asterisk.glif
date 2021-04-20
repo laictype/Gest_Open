@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+	<advance width="499"/>
+	<unicode hex="002A"/>
+	<outline>
+		<contour>
+			<point x="401" y="668" type="line"/>
+			<point x="250" y="535" type="line"/>
+			<point x="101" y="668" type="line"/>
+			<point x="51" y="605" type="line"/>
+			<point x="214" y="470" type="line"/>
+			<point x="214" y="316" type="line"/>
+			<point x="289" y="316" type="line"/>
+			<point x="289" y="470" type="line"/>
+			<point x="448" y="605" type="line"/>
+		</contour>
+		<contour>
+			<point x="401" y="366" type="line"/>
+			<point x="448" y="429" type="line"/>
+			<point x="289" y="564" type="line"/>
+			<point x="289" y="718" type="line"/>
+			<point x="214" y="718" type="line"/>
+			<point x="214" y="564" type="line"/>
+			<point x="51" y="429" type="line"/>
+			<point x="101" y="366" type="line"/>
+			<point x="250" y="499" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-01-20 20:03:58 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

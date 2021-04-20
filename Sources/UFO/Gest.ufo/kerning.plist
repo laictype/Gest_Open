@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>F.ss01</key>
+	<dict>
+		<key>J.ss01</key>
+		<integer>-120</integer>
+	</dict>
+	<key>public.kern1.slash</key>
+	<dict>
+		<key>public.kern2.underscore</key>
+		<integer>-70</integer>
+	</dict>
+	<key>slash</key>
+	<dict>
+		<key>J.ss01</key>
+		<integer>-120</integer>
+	</dict>
+</dict>
+</plist>

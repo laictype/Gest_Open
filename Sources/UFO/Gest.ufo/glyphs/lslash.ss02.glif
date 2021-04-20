@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.ss02" format="2">
+	<advance width="323"/>
+	<anchor x="270" y="0" name="bottom"/>
+	<anchor x="270" y="250" name="center"/>
+	<anchor x="270" y="500" name="top"/>
+	<anchor x="502" y="500" name="topright"/>
+	<outline>
+		<contour>
+			<point x="51" y="284" type="line"/>
+			<point x="51" y="161" type="line"/>
+			<point x="272" y="368" type="line"/>
+			<point x="272" y="491" type="line"/>
+		</contour>
+		<component base="l.ss02" xOffset="39"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:52:22 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

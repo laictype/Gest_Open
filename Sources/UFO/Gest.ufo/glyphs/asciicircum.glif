@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+	<advance width="464"/>
+	<unicode hex="005E"/>
+	<outline>
+		<contour>
+			<point x="310" y="435" type="line"/>
+			<point x="413" y="435" type="line"/>
+			<point x="413" y="499" type="line"/>
+			<point x="232" y="766" type="line"/>
+			<point x="51" y="499" type="line"/>
+			<point x="51" y="435" type="line"/>
+			<point x="154" y="435" type="line"/>
+			<point x="154" y="475" type="line"/>
+			<point x="232" y="592" type="line"/>
+			<point x="310" y="475" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-12-17 23:15:06 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

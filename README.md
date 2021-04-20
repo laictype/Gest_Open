@@ -1,9 +1,9 @@
 # Eksces Open Typeface
-## Designed by Maciej Połczyński. 
+## Designed by Maciej Połczyński.
 Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1.1)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl)
 
 ### Description
-Eksces (Polish for unusual, over-the-top behaviour, usually not approved by the general public). The typeface letterforms comes from a personal project logotype idea. The project remained unfinished, yet the idea of the logotype was was expanded into the display typeface.
+Eksces (Polish for unusual, over-the-top behaviour, usually not approved by the general public – not necessarly good nor bad). The typeface letterforms comes from a personal project logotype idea. The project remained unfinished, yet the idea of the logotype was was expanded into the display typeface.
 
 The outer geometrical construction is challenged by inner curves. The serifs are somehow randomly placed in the shapes, chanllenging the technical appearance.
 

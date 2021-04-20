@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.ss02" format="2">
+	<advance width="464"/>
+	<anchor x="241" y="487" name="bottom"/>
+	<anchor x="241" y="128" name="center"/>
+	<anchor x="241" y="-231" name="top"/>
+	<outline>
+		<contour>
+			<point x="51" y="174" type="line"/>
+			<point x="51" y="-200" type="line"/>
+			<point x="151" y="-200" type="line"/>
+			<point x="151" y="487" type="line"/>
+			<point x="51" y="487" type="line"/>
+		</contour>
+		<component base="o.ss02"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:52:22 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

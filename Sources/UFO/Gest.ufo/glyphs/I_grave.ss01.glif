@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave.ss01" format="2">
+	<advance width="375"/>
+	<anchor x="188" y="0" name="bottom"/>
+	<anchor x="337" y="10" name="ogonek"/>
+	<anchor x="188" y="718" name="top"/>
+	<anchor x="20" y="718" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="143" y="843" type="line" smooth="yes"/>
+			<point x="143" y="798"/>
+			<point x="176" y="766"/>
+			<point x="221" y="766" type="curve" smooth="yes"/>
+			<point x="233" y="766" type="line"/>
+			<point x="233" y="923" type="line"/>
+			<point x="143" y="923" type="line"/>
+		</contour>
+		<contour>
+			<point x="239" y="591" type="line" smooth="yes"/>
+			<point x="239" y="611"/>
+			<point x="251" y="623"/>
+			<point x="271" y="623" type="curve" smooth="yes"/>
+			<point x="324" y="623" type="line"/>
+			<point x="324" y="718" type="line"/>
+			<point x="51" y="718" type="line"/>
+			<point x="51" y="623" type="line"/>
+			<point x="104" y="623" type="line" smooth="yes"/>
+			<point x="124" y="623"/>
+			<point x="136" y="611"/>
+			<point x="136" y="591" type="curve" smooth="yes"/>
+			<point x="136" y="127" type="line" smooth="yes"/>
+			<point x="136" y="107"/>
+			<point x="124" y="95"/>
+			<point x="104" y="95" type="curve" smooth="yes"/>
+			<point x="51" y="95" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="324" y="0" type="line"/>
+			<point x="324" y="95" type="line"/>
+			<point x="271" y="95" type="line" smooth="yes"/>
+			<point x="251" y="95"/>
+			<point x="239" y="107"/>
+			<point x="239" y="127" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:51:41 +0000</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

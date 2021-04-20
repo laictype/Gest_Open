@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.ss02" format="2">
+	<advance width="435"/>
+	<anchor x="218" y="0" name="bottom"/>
+	<anchor x="218" y="718" name="top"/>
+	<outline>
+		<contour>
+			<point x="384" y="513" type="line"/>
+			<point x="384" y="718" type="line"/>
+			<point x="51" y="718" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="384" y="0" type="line"/>
+			<point x="384" y="396" type="line"/>
+			<point x="213" y="396" type="line"/>
+			<point x="213" y="301" type="line"/>
+			<point x="281" y="301" type="line"/>
+			<point x="281" y="127" type="line" smooth="yes"/>
+			<point x="281" y="107"/>
+			<point x="269" y="95"/>
+			<point x="249" y="95" type="curve" smooth="yes"/>
+			<point x="186" y="95" type="line" smooth="yes"/>
+			<point x="166" y="95"/>
+			<point x="154" y="107"/>
+			<point x="154" y="127" type="curve" smooth="yes"/>
+			<point x="154" y="591" type="line" smooth="yes"/>
+			<point x="154" y="611"/>
+			<point x="166" y="623"/>
+			<point x="186" y="623" type="curve" smooth="yes"/>
+			<point x="249" y="623" type="line" smooth="yes"/>
+			<point x="269" y="623"/>
+			<point x="281" y="611"/>
+			<point x="281" y="591" type="curve" smooth="yes"/>
+			<point x="281" y="513" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-03-29 21:51:48 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

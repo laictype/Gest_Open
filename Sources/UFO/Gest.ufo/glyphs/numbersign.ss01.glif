@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.ss01" format="2">
+	<advance width="681"/>
+	<outline>
+		<contour>
+			<point x="51" y="545" type="line"/>
+			<point x="51" y="450" type="line"/>
+			<point x="630" y="450" type="line"/>
+			<point x="630" y="545" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="265" type="line"/>
+			<point x="51" y="170" type="line"/>
+			<point x="630" y="170" type="line"/>
+			<point x="630" y="265" type="line"/>
+		</contour>
+		<contour>
+			<point x="119" y="718" type="line"/>
+			<point x="119" y="0" type="line"/>
+			<point x="222" y="0" type="line"/>
+			<point x="222" y="718" type="line"/>
+		</contour>
+		<contour>
+			<point x="459" y="359" type="line"/>
+			<point x="562" y="359" type="line"/>
+			<point x="562" y="718" type="line"/>
+			<point x="459" y="718" type="line"/>
+		</contour>
+		<contour>
+			<point x="459" y="359" type="line"/>
+			<point x="459" y="0" type="line"/>
+			<point x="562" y="0" type="line"/>
+			<point x="562" y="359" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-12-19 14:02:45 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

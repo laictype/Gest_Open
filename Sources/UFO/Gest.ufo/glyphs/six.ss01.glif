@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.ss01" format="2">
+	<advance width="512"/>
+	<outline>
+		<contour>
+			<point x="51" y="518" type="line"/>
+			<point x="154" y="518" type="line"/>
+			<point x="154" y="568" type="line" smooth="yes"/>
+			<point x="154" y="605"/>
+			<point x="174" y="625"/>
+			<point x="211" y="625" type="curve" smooth="yes"/>
+			<point x="460" y="625" type="line"/>
+			<point x="460" y="718" type="line"/>
+			<point x="51" y="718" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="179" type="line"/>
+			<point x="154" y="179" type="line"/>
+			<point x="154" y="303" type="line" smooth="yes"/>
+			<point x="154" y="333"/>
+			<point x="161" y="350"/>
+			<point x="191" y="350" type="curve" smooth="yes"/>
+			<point x="330" y="350" type="line"/>
+			<point x="330" y="445" type="line"/>
+			<point x="191" y="445" type="line" smooth="yes"/>
+			<point x="161" y="445"/>
+			<point x="154" y="462"/>
+			<point x="154" y="492" type="curve" smooth="yes"/>
+			<point x="154" y="518" type="line"/>
+			<point x="51" y="518" type="line"/>
+		</contour>
+		<contour>
+			<point x="154" y="179" type="line"/>
+			<point x="51" y="179" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="461" y="0" type="line"/>
+			<point x="461" y="93" type="line"/>
+			<point x="211" y="93" type="line" smooth="yes"/>
+			<point x="174" y="93"/>
+			<point x="154" y="113"/>
+			<point x="154" y="150" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="461" y="69" type="line"/>
+			<point x="461" y="445" type="line"/>
+			<point x="321" y="445" type="line"/>
+			<point x="301" y="445" type="line"/>
+			<point x="301" y="350" type="line"/>
+			<point x="321" y="350" type="line" smooth="yes"/>
+			<point x="351" y="350"/>
+			<point x="358" y="333"/>
+			<point x="358" y="303" type="curve" smooth="yes"/>
+			<point x="358" y="69" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-12-17 23:23:43 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>
