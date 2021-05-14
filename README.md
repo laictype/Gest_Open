@@ -23,4 +23,4 @@ Production files are available in the "Source" folder.
 The structure of files and the idea itself is inspired by [Velvetyne Type Foundry](https://www.velvetyne.fr/)
 
 #### Images
-![Gest](https://laic.pl/upload/Gallery/gest2.jpg)
+![Gest](https://laic.pl/upload/Gallery/gest3.jpg)
