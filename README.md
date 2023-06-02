@@ -5,11 +5,12 @@ Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1
 ![Gest](Images/Gest_2021_RW.png)
 
 ### Description
-Gest (Polish for gesture – a good thing, a gift). The typeface letterforms comes from a personal project logotype idea. The project remained unfinished, yet the idea of the logotype was was expanded into the display typeface. Previously named "Eksces".
+Gest (Polish for gesture – a good thing, a gift). The typeface letterforms come from an unfinished logotype idea. Previously named "Eksces".
 
-The outer geometrical construction is challenged by inner curves. The serifs are somehow randomly placed in the shapes, chanllenging the technical appearance.
+The outer geometrical construction is challenged by inner curves. The serifs are somehow randomly placed in the shapes to challenge the technical appearance.
 
-Eksces consists of 3 widths (narrow, regular and wide. You can access individual widths via Stylistic Sets (OpenType features) or enjoy a mixture of all.
+Gest consists of 3 widths – Narrow, Regular and Wide. 
+You can access individual widths via Stylistic Sets (OpenType features) or enjoy the mixture by using the Contextual Alternates feature.
 
 The typeface consists of *Latin* script and 1430 glyphs in total.
 
