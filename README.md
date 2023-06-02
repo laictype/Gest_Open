@@ -1,5 +1,5 @@
 # Gest Open Typeface
-## Designed by Maciej Połczyński.
+## Designed by Maciej Połczyński
 Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1.1)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl)
 
 ![Gest](https://laic.pl/upload/Gallery/gest2.jpg)
