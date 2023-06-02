@@ -2,7 +2,7 @@
 ## Designed by Maciej Połczyński
 Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1.1)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl)
 
-![Gest](https://laic.pl/upload/Gallery/gest2.jpg)
+![Gest](https://github.com/laictype/Gest_Open/blob/c86874f04812b5977f1fe03416577ef76f0505c1/Images/Gest_2021_RW.png)
 
 ### Description
 Gest (Polish for gesture – a good thing, a gift). The typeface letterforms comes from a personal project logotype idea. The project remained unfinished, yet the idea of the logotype was was expanded into the display typeface. Previously named "Eksces".
@@ -23,4 +23,4 @@ Production files are available in the "Source" folder.
 The structure of files and the idea itself is inspired by [Velvetyne Type Foundry](https://www.velvetyne.fr/)
 
 #### Images
-![Gest](https://laic.pl/upload/Gallery/gest3.jpg)
+![Gest](Images/Gest_2021_as.png)
