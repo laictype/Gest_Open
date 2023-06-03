@@ -5,7 +5,7 @@ Released by [Laïc:Type](https://laic.pl) under SIL Open Font License [(OFL V. 1
 ![Gest](Images/Gest_2021_RW.png)
 
 ### Description
-Gest (Polish for gesture, maybe album cover of Wish You Were Here by Pink Floyd?. Gesture, a good thing, a gift, a greeting). The typeface letterforms come from an unfinished logotype idea. Previously named "Eksces".
+Gest (Polish for gesture, maybe album cover of Wish You Were Here by Pink Floyd? Gesture, a good thing, a gift, a greeting). The typeface letterforms come from an unfinished logotype idea. Previously named "Eksces".
 
 The outer geometrical construction is challenged by inner curves. The serifs are somehow randomly placed in the shapes to challenge the technical appearance.
 
